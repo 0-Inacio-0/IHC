@@ -32,6 +32,7 @@
 		Belo Horizonte, além de ajudar a encontrar as academias mais próximas do usuário.
 	</p>
 </article>
+* Sistema - [html](https://0-inacio-0.github.io/IHC/)
 
 * Relatório do Trabalho - [pdf](https://0-inacio-0.github.io/IHC/relatorio.pdf)
 
