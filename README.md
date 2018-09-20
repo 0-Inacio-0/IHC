@@ -32,8 +32,10 @@
 		Belo Horizonte, além de ajudar a encontrar as academias mais próximas do usuário.
 	</p>
 </article>
-Relatório do Trabalho - [pdf](https://0-inacio-0.github.io/IHC/relatorio.pdf)
-Poster do Trabalho - [png](https://0-inacio-0.github.io/IHC/poster.png)
+
+* Relatório do Trabalho - [pdf](https://0-inacio-0.github.io/IHC/relatorio.pdf)
+
+* Poster do Trabalho - [png](https://0-inacio-0.github.io/IHC/poster.png)
 
 _
 <article>
