@@ -33,7 +33,7 @@
 	</p>
 </article>
 
-* Sistema - [html](https://0-inacio-0.github.io/IHC/)
+* Sistema - [html](https://zeckcarvalhos.github.io/IHC)
 
 * Relatório do Trabalho - [pdf](https://0-inacio-0.github.io/IHC/relatorio.pdf)
 
