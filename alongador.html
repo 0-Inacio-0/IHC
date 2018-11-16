@@ -2,12 +2,36 @@
 <html>
 	<head>
 		<title>Academia a Céu Aberto</title>
+			 <!--Import Google Icon Font-->
+	      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	      <!--Import materialize.css-->
+	      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+
+	      <!--Let browser know website is optimized for mobile-->
+	      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 	</head>
 	<body class="is-preload">
+		<!--Import jQuery before materialize.js-->
+	      <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	      <script type="text/javascript" src="js/materialize.min.js"></script>
+	      <script> $( document ).ready(function(){})
+	    	$(document).ready(function() {
+	    		$('select').material_select();
+	    	});
+	    	
+	    	$(document).ready(function(){
+    // the "href" attribute of the modal trigger must specify the modal ID that wants to be triggered
+    $('.modal').modal();
+  });
+
+	    	$('#modal1').modal('close');
+
+	    </script>
+
 		<!-- Wrapper -->
 			<div id="wrapper">
 				<!-- Header -->
@@ -28,18 +52,55 @@
 							<p>Como o próprio nome já diz, ele foi pensado para que você possa realizar o alongamento, principalmente na região superior do seu corpo. Você pode apenas se apoiar ou, se estiver forte o suficiente, se pendurar no alto para alongar ainda mais.</p>
 							<!--fonte: https://ginast.com.br/academia-ao-ar-livre-para-idosos-dicas-de-exercicios-e-equipamentos-essenciais/-->
 						</div>
-						<div class="align-center">
+						<!-- <div class="align-center">
 							<video width=90% controls>
 								<source width=90% height=auto src="videos/doggo.mp4" type="video/mp4">
 							</video>
-						</div>
+						</div> !-->
 					</div>
+
+					<div class="center">
+						 <i class="material-icons yellow-text">star</i>
+						 <i class="material-icons yellow-text">star</i>
+						 <i class="material-icons yellow-text">star</i>
+						 <i class="material-icons yellow-text">star_half</i>
+						 <i class="material-icons yellow-text">star_border</i>
+
+						 <br>
+
+						
+						<button data-target="modal5" class="btn modal-trigger">Avalie este Equipamento</button>
+						
+
+					</div>
+					<br>
+					<br>
+
+					<!-- Modal Structure -->
+  <div id="modal5" class="modal">
+    <div class="modal-content">
+      <h4 class="center">Avaliação</h4>
+      <div class="center"> 
+      <i class="material-icons yellow-text">star_border</i>
+      <i class="material-icons yellow-text">star_border</i>
+      <i class="material-icons yellow-text">star_border</i>
+      <i class="material-icons yellow-text">star_border</i>
+      <i class="material-icons yellow-text">star_border</i>
+  	</div>
+    </div>
+    <div class="modal-footer">
+      <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Enviar Avaliação</a>
+    </div>
+  </div>
+
 			</div>
-		<!-- Scripts -->
+
+
+		<!-- Scripts 
 			<script src="assets/js/jquery.min.js"></script>
 			<script src="assets/js/browser.min.js"></script>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
-			<script src="assets/js/main.js"></script>
+			<script src="assets/js/main.js"></script>-->
 	</body>
 </html>
