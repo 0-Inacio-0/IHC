@@ -4,8 +4,8 @@
 	<details>
 		<summary>
 			<p>
-				Primeiro projeto da disciplina Interação Humano-Computador do curso de Engenharia de 
-				Software da Pontifícia Universidade Católica de Minas Gerais, unidade Praça da Liberdade.
+				Segundo projeto da disciplina Interação Humano-Computador do curso de Engenharia de 
+				Software da Pontifícia Universidade Católica de Minas Gerais, Unidade Praça da Liberdade.
 			</p>
 		</summary>
 		<p>
@@ -18,14 +18,17 @@
 	</details>
 	<h3>Desenvolvedores:</h3>
 	<ul class="icons">
-		<li><a href="https://github.com/0-Inacio-0" class="icon style1 fa-github"><span class="label">Inácio Moraes</span></a></li>
-		<li><a href="https://github.com/Zuquim" class="icon style1 fa-github"><span class="label">Marco Túlio Zuquim</span></a></li>
+		<li><a href="https://github.com/ZeckCarvalhos" class="icon style1 fa-github"><span class="label">Ezequiel Carvalhos</span></a></li>
+		<li><a href="https://github.com/pattylourenco" class="icon style1 fa-github"><span class="label">Patrícia Lourenço</span></a></li>
 	</ul>
 	<h3>Casos de uso:</h3>
 	<ul>
-		<li>Visualizar as instruções referentes à correta forma de uso de cada equipamento;</li>
-		<li>Assistir um vídeo instrutivo de cada equipamento;</li>
-		<li>Visualizar todas as academias públicas da cidade em um mapa;</li>
+		<li>UC001 - Visualizar instruções de como utilizar o equipamento;</li>
+		<li>UC002 - Assistir a um vídeo de um equipamento;</li>
+		<li>UC003 - Visualizar as academias em um mapa;</li>
+		<li>UC004 - Procurar as academias por bairro;</li>
+		<li>UC005 - Procurar as academias por equipamento;</li>
+		<li>UC006 - Avaliar a qualidade dos equipamentos.</li>
 	</ul>
 	<p>
 		Página para auxiliar a população sobre o uso dos equipamentos da Academia a Céu Aberto de 
@@ -34,10 +37,8 @@
 </article>
 
 * Sistema - [html](https://zeckcarvalhos.github.io/IHC)
-
-* Relatório do Trabalho - [pdf](https://0-inacio-0.github.io/IHC/relatorio.pdf)
-
-* Poster do Trabalho - [png](https://0-inacio-0.github.io/IHC/poster.png)
+* Relatório do Trabalho - [pdf]()
+* Poster do Trabalho - [png]()
 
 _
 <article>
